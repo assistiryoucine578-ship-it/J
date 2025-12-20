@@ -149,7 +149,9 @@ local killerDelayMap = {
     ["slasher"] = 0.01,
     ["1x1x1x1"] = 0.49,
     ["johndoe"] = 0.50,
-    ["Noli"] = 0.24,
+    ["Noli"] = 0.24, 
+    ["Nosferatu"] = 0.25, 
+    ["sixer"] = 0.01,
 }
 
 local predictiveBlockOn = false

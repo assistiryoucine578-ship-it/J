@@ -151,7 +151,6 @@ local killerDelayMap = {
     ["johndoe"]  = 0.50,
     ["noli"]     = 0.24,
     ["Nosferatu] = 0.5, 
-    ["Sixer"] = 0.01,  
 }
 
 local predictiveBlockOn = false
